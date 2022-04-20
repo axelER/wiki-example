@@ -1,5 +1,5 @@
 # First Title
-** Important info **
+**Important info**
 
 Information under first title
 
